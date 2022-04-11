@@ -1,0 +1,11 @@
+ID,StateName,ClassName,PNGFilename,CollisionFilename
+0,Splash,PNGRoom,assets/Splash.png,
+1,Instructions,InstructionsScreen,assets/Instructions.png,
+2,Play,PNGRoom,assets/beginscreen.png,
+3,Triangle,PNGRoom,assets/maze1.png,
+4,Square,PNGRoom,assets/maze2.png,
+5,Circle,PNGRoom,assets/maze3.png,
+6,Triangle,PNGRoom,assets/maze1.png,
+7,Circle,PNGRoom,assets/maze2.png,
+8,Square,PNGRoom,assets/maze3.png,
+9,Triangle,PNGRoom,assets/maze1.png,

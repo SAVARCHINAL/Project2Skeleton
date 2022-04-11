@@ -1,0 +1,20 @@
+CurrentState,ClickableName,MapDirection,NextState
+Splash,,,Instructions
+Instructions,StartGame,,Play
+Play,,N,Triangle
+Play,,S,Square
+Play,,W,Circle
+Play,,E,Triangle
+Triangle,,S,Square
+Triangle,,W,Circle
+Triangle,N, Triangle
+Triangle, E, Circle
+Circle,,E,Square
+Circle,,S,Triangle
+Circle, W, Circle
+Circle,N, Circle
+Square,,N,Triangle
+Square,,W,Circle
+Square,,S,Square
+Square,,E,Circle
+
